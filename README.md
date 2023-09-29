@@ -29,3 +29,9 @@
 - Date: 23/09/23
 - Solve: 11/14
 - Link: https://codeforces.com/gym/104603
+
+# 05. The 2023 ICPC Asia Hong Kong Regional Programming Contest
+
+- Date: 29/09/23
+- Solve: 5/13
+- Link: https://codeforces.com/gym/104172
