@@ -32,6 +32,13 @@
 
 # 05. The 2023 ICPC Asia Hong Kong Regional Programming Contest
 
-- Date: 29/09/23
-- Solve: 5/13
+- Date: 23/09/29
+- Solve: 5/12
 - Link: https://codeforces.com/gym/104172
+
+# 06. The 2018 ICPC Asia Qingdao Regional Programming Contest
+
+- Date: 23/10/06
+- Solve: 6/13
+- Link: https://codeforces.com/gym/104270
+
